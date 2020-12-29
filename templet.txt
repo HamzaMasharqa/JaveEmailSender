@@ -1,0 +1,72 @@
+<div>
+    
+<table width="100%" cellpadding="0" cellspacing="0" style="font-family:Avenir,Helvetica,sans-serif;background-color:#f5f8fa;margin:0;padding:0;width:100%"><tbody><tr>
+<td align="center" style="font-family:Avenir,Helvetica,sans-serif">
+                <table width="100%" cellpadding="0" cellspacing="0" style="font-family:Avenir,Helvetica,sans-serif;margin:0;padding:0;width:100%">
+<tbody><tr>
+<td style="font-family:Avenir,Helvetica,sans-serif;padding:25px 0;text-align:center">
+        <a href="https://sms.to" style="font-family:Avenir,Helvetica,sans-serif;color:rgb(187,191,195);font-size:19px;font-weight:bold;text-decoration:none" rel="noreferrer noopener" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://sms.to&amp;source=gmail&amp;ust=1609249710276000&amp;usg=AFQjCNF9HE8DNi04JN0xos2abuwQZYDIyw">
+            <img src="https://ci3.googleusercontent.com/proxy/JLHBuNDXxHd8GaeJN3LFTh8brU3E58WfMEcXsY-RntQYYhol7EGdAHsRnyhnhSUxmP7pDKMo9Q=s0-d-e1-ft#https://sms.to/images/logo-email.png" alt="SMS.to" style="font-family:Avenir,Helvetica,sans-serif;max-width:100%;border:none" class="CToWUd"></a>
+    </td>
+</tr>
+<tr>
+<td width="100%" style="font-family:Avenir,Helvetica,sans-serif;background-color:#f5f8fa;margin:0;padding:0;width:100%">
+                            <table align="center" width="570" cellpadding="0" cellspacing="0" style="font-family:Avenir,Helvetica,sans-serif;background-color:#ffffff;margin:0 auto;padding:0;width:570px">
+<tbody><tr>
+<td style="font-family:Avenir,Helvetica,sans-serif;padding:35px">
+                                        <h1 style="font-family:Avenir,Helvetica,sans-serif;color:#2f3133;font-size:19px;font-weight:bold;margin-top:0;text-align:left">Payment Refunded</h1>
+<p style="font-family:Avenir,Helvetica,sans-serif;color:#74787e;font-size:16px;line-height:1.5em;margin-top:0;text-align:left">Hi Aymen Talahmeh,</p>
+<p style="font-family:Avenir,Helvetica,sans-serif;color:#74787e;font-size:16px;line-height:1.5em;margin-top:0;text-align:left">The following payment has been refunded:</p>
+<p style="font-family:Avenir,Helvetica,sans-serif;color:#74787e;font-size:16px;line-height:1.5em;margin-top:0;text-align:left">
+Amount: <strong style="font-family:Avenir,Helvetica,sans-serif">$ 25.00 </strong><br>
+Payment method: <strong style="font-family:Avenir,Helvetica,sans-serif">credit card</strong><br>
+Payment date: <strong style="font-family:Avenir,Helvetica,sans-serif">Jun 7 2020</strong><br>
+Invoice #: <strong style="font-family:Avenir,Helvetica,sans-serif">13477</strong><br>
+Invoice date: <strong style="font-family:Avenir,Helvetica,sans-serif">Jun 7 2020</strong>
+</p>
+<p style="font-family:Avenir,Helvetica,sans-serif;color:#74787e;font-size:16px;line-height:1.5em;margin-top:0;text-align:left">
+For any further information please do not hesitate to contact us.<br>
+-- The SMS.to Team
+</p>
+
+
+                                        
+                                    </td>
+                                </tr>
+</tbody></table>
+</td>
+                    </tr>
+<tr>
+<td style="font-family:Avenir,Helvetica,sans-serif">
+        <table align="center" width="570" cellpadding="0" cellspacing="0" style="font-family:Avenir,Helvetica,sans-serif;margin:0 auto;padding:0;text-align:center;width:570px;font-size:12px;color:#888888">
+<tbody><tr>
+<td align="center" style="font-family:Avenir,Helvetica,sans-serif;padding:15px 0 0 0">
+                    <a href="https://www.facebook.com/SMSto-Bulk-SMS-SMS-Marketing-1909869432637539" style="color:#499df3;font-family:'Open Sans',Helvetica,Arial,sans-serif;font-size:13px;font-weight:normal;line-height:100%;text-decoration:none" rel="noreferrer noopener" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.facebook.com/SMSto-Bulk-SMS-SMS-Marketing-1909869432637539&amp;source=gmail&amp;ust=1609249710276000&amp;usg=AFQjCNEAM_J3XB6LXsBWo4wx8Pl5ImxFKg">
+                        <img src="https://ci6.googleusercontent.com/proxy/nTKHL49G7wUx0iIwUJIJORljjPVPu_GRnqNo2f006reE8lYJHll7MNlYMZJJZMnyaggQ3VqOavQiEdrZIgVRvQx74MxlJdp5_cv27K0=s0-d-e1-ft#https://sms.to/images/social-media-icons/mail/facebook.png" alt="Facebook" width="32" style="font-family:Avenir,Helvetica,sans-serif;max-width:100%;height:auto;border:none" class="CToWUd"></a>
+                    <a href="https://twitter.com/smstoapp" style="color:#499df3;font-family:'Open Sans',Helvetica,Arial,sans-serif;font-size:13px;font-weight:normal;line-height:100%;text-decoration:none" rel="noreferrer noopener" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://twitter.com/smstoapp&amp;source=gmail&amp;ust=1609249710276000&amp;usg=AFQjCNEfmoqukOEQj-Ye66RRvgesb7OeGA">
+                        <img src="https://ci6.googleusercontent.com/proxy/3JO1FpoJ6yk6sduyoiuilXNh3UA3hhWPMfc_jOipXzpUT9RCY4wQWTISXZ2LYG3T-Xa0NzFV9gweSUOE8SoplpLUOAZK32ATsqgz0Q=s0-d-e1-ft#https://sms.to/images/social-media-icons/mail/twitter.png" alt="Twitter" width="32" style="font-family:Avenir,Helvetica,sans-serif;max-width:100%;height:auto;border:none" class="CToWUd"></a>
+                    <a href="https://www.linkedin.com/company/sms-to" style="color:#499df3;font-family:'Open Sans',Helvetica,Arial,sans-serif;font-size:13px;font-weight:normal;line-height:100%;text-decoration:none" rel="noreferrer noopener" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.linkedin.com/company/sms-to&amp;source=gmail&amp;ust=1609249710276000&amp;usg=AFQjCNES4APkskJc62iFakeavlpItwbxYQ">
+                        <img src="https://ci6.googleusercontent.com/proxy/vMfcD6ax8QeUL52huPKNzFTWoA3CJy3PDowZimWaYj1XNR4w1SnQTQEuOC4IpSY613EZjfh_Fsft6ohxnige3TJD7uqt2WNtTFY9Foc=s0-d-e1-ft#https://sms.to/images/social-media-icons/mail/linkedin.png" alt="LinkedIn" width="32" style="font-family:Avenir,Helvetica,sans-serif;max-width:100%;height:auto;border:none" class="CToWUd"></a>
+                </td>
+            </tr>
+<tr>
+<td align="center" style="font-family:Avenir,Helvetica,sans-serif;padding:15px 0 0 0">
+                    SMS.to is a product of Intergo Telecom Ltd.<br>
+                    Address: Nikolaou Nikolaidi 3, Office 206, Savvas Plazza, 8010, Paphos, Cyprus<br>
+                    Registered in Cyprus: HE 330036<br>
+                    VAT Number: CY 330036Y<br>
+</td>
+            </tr>
+<tr>
+<td align="center" style="font-family:Avenir,Helvetica,sans-serif;padding:15px 0 0 0">
+                    <p style="font-family:Avenir,Helvetica,sans-serif;line-height:1.5em;margin-top:0;color:#aeaeae;font-size:12px;text-align:center">© 2020 SMS.to. All rights reserved.</p>
+
+                </td>
+            </tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+        </tr></tbody></table><div class="yj6qo"></div><div class="adL">
+</div></div>
